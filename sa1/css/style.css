@@ -1,0 +1,60 @@
+html {
+	background-color:#5284c1;
+	padding:0;
+}
+
+.results{
+	display: none;
+}
+
+.banner{
+	background-image: url(pingpongd.jpg);
+	padding: 50px;
+}
+
+.header{
+	text-align: center;
+	font-size: 100px;
+	font-family: sans-serif;
+	color: #3f280e;
+	padding: 0px
+}
+
+.sidebar{
+	background-color: #8fbc8e;
+	float: left;
+	width: 30%;
+	margin: 0;
+	padding: 20px;
+	margin-top:10px;
+	padding-bottom: 300px;
+}
+
+.textcolor{
+	color: #d28240
+}
+
+.main{
+	float: right;
+	padding: 20px;
+	margin: 0;
+	width: 70%;
+	background-color: #E6E6E6;
+}
+
+.form-main{
+	padding-bottom: 200px; 
+}
+
+.btn{
+	background-color: ;
+}
+
+footer{
+	opacity: 0.5;
+	display: block;
+}
+
+.clearfix{
+	clear: all;
+}
